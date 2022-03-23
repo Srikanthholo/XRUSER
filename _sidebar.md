@@ -9,7 +9,7 @@
  
 - **User Login**
 
-  - [XR Guru Creator Homepage](/Creator)
+  - [XR Guru User](/User)
   - [Design Studio Authoring Tool](/Creator?id=design-studio-authoring-tool)
     - [Features](/Creator?id=features)
     - [System Requirements](/Creator?id=system-requirements)
