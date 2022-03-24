@@ -29,9 +29,6 @@ Download the XR Guru app for either Oculus, iOS, or Android
 | Oculus Quest|<img src="https://user-images.githubusercontent.com/101865042/159675291-8aecdc17-eba3-4947-a314-5a3317994cad.jpg" alt="drawing" style="width:400px;"/>|App link :- https://www.oculus.com/experiences/quest/3694537353974790/|
 | ipad | <img src="https://user-images.githubusercontent.com/101865042/159673991-235572dd-8953-405d-93f7-8b7007be007b.png" alt="drawing" style="width:400px;"/> |App link :- https://apps.apple.com/us/app/xr-guru/id1455596517 |
 | Android | <img src="https://user-images.githubusercontent.com/101865042/159866372-32d3662c-0a9e-4615-b6cd-69b4e1405f5c.PNG" alt="drawing" style="width:400px;"/> | App link :- https://play.google.com/store/apps/details?id=com.holopundits.xrguru |
- 
-
-
 
 
 # Registration using device
@@ -42,7 +39,7 @@ Download the XR Guru app for either Oculus, iOS, or Android
 4. Using your device, select the desired topics to experience.
 
 
-# Market Place
+# MarketPlace
 
 You can view the AR/VR digital content on your device from the MarketPlace. Some content is available at no charge, and you need to buy packages from our Marketplace.
 You can choose to buy a package in the marketplace as an Individual customers or Institution customers.
@@ -50,7 +47,7 @@ You can choose to buy a package in the marketplace as an Individual customers or
 ![Market Place](https://user-images.githubusercontent.com/101865042/159876748-d0876123-9d8b-492a-b22e-06947d81bfaf.PNG)
 
 
-# Featuers and Benifits
+# Features
 
 - Technical Support Team
 - Access to hundreds of ready-to-use content in a variety of subjects.
@@ -61,14 +58,13 @@ You can choose to buy a package in the marketplace as an Individual customers or
 
 
 # Login
+When user clicks on the login button on top of the website it will lead the user to the login page, Loign with user credintials.
+
 
  ![LoginPage](https://user-images.githubusercontent.com/101865042/159888760-8f0e8414-7a79-4c7a-bd8b-1289af050539.PNG)
 
 
-When user clicks on the login button on top of the website it will lead the user to the login page.
-Loign with user credintials.
-
-# Market Place Content
+# MarketPlace Content
 
 
 ![Marketplacecontent](https://user-images.githubusercontent.com/101865042/159878238-36a78075-f8d1-4af4-bf28-de6905b1c071.PNG)
