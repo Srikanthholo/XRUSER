@@ -41,8 +41,8 @@ Download the XR Guru app for either Oculus, iOS, or Android
 
 # Marketplace
 
-You can view the AR/VR digital content on your device from the MarketPlace. Some content is available at no charge, and you need to buy packages from our Marketplace.
-You can choose to buy a package in the marketplace as an Individual customers or Institution customers.
+From the MarketPlace, you can access AR/VR digital content on your device. Some content is free, but you'll need to purchase packages from our Marketplace.
+Individual customers or Institution customers can purchase a package in the marketplace.
 
 ![Market Place](https://user-images.githubusercontent.com/101865042/159876748-d0876123-9d8b-492a-b22e-06947d81bfaf.PNG)
 
@@ -58,23 +58,24 @@ You can choose to buy a package in the marketplace as an Individual customers or
 
 
 # Login
-When user clicks on the login button on top of the website it will lead the user to the login page, Loign with user credintials.
-
+When a user clicks the login button at the top of the page, it takes them to the login page, where they can enter their credentials.
 
  ![LoginPage](https://user-images.githubusercontent.com/101865042/159888760-8f0e8414-7a79-4c7a-bd8b-1289af050539.PNG)
 
 
 # Marketplace Content
 
+From the MarketPlace, you can access AR/VR digital content on your device. Some content is free, but you'll need to purchase packages from our Marketplace.
+Individual customers or Institution customers can purchase a package in the marketplace.
 
 ![Marketplacecontent](https://user-images.githubusercontent.com/101865042/159878238-36a78075-f8d1-4af4-bf28-de6905b1c071.PNG)
 
 
 # Subscriptions
 
+Users can view the package they purchased by clicking on the subscriptions tab, and they can purchase additional packages as needed.
 
 ![MarketpalceSubscriptions](https://user-images.githubusercontent.com/101865042/159879181-2490d8f4-e4a5-44bf-9e54-b40a51ce6114.PNG)
 
 
-Click on the Subscriptions to see the Subscriptions opted for and user can  buy more packages as per their requirement.
 
