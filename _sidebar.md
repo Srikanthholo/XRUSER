@@ -16,6 +16,6 @@
   - [Features](/User?id=features)
   - [Registration using device](/User?id=registration-using-device)
   - [Login](/User?id=login)
-  - [Market Place Content](/User?id=marketplace-content)
+  - [Marketplace Content](/User?id=marketplace-content)
   - [Subscriptions](/User?id=subscriptions)
   
