@@ -62,7 +62,8 @@ You can choose to buy a package in the marketplace as an Individual customers or
 
 # Login
 
-![LoginPage](https://user-images.githubusercontent.com/101865042/159877759-364e4349-bf91-4f45-b61d-1cc7875a4c8d.PNG)
+ ![LoginPage](https://user-images.githubusercontent.com/101865042/159888760-8f0e8414-7a79-4c7a-bd8b-1289af050539.PNG)
+
 
 When user clicks on the login button on top of the website it will lead the user to the login page.
 Loign with user credintials.
