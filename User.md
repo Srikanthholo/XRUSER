@@ -35,6 +35,10 @@ Download the XR Guru app for either Oculus, iOS, or Android
 
 # Registration using device
 
+![4steps for installations](https://user-images.githubusercontent.com/101865042/159942977-ab328fca-f656-430e-9a14-52661367e983.PNG)
+
+
+
 1. Download the XR Guru app for either Oculus, iOS, or Android
 2. Register for an XR Guru account that will sync to devices with the installed XR Guru app
 3. Subscribe to additional topics and content as desired
@@ -43,7 +47,7 @@ Download the XR Guru app for either Oculus, iOS, or Android
 
 # Marketplace
 
-From the MarketPlace, you can access AR/VR digital content on your device. Some content is free, but you'll need to purchase packages from our Marketplace.
+From the Marketplace, you can access AR/VR digital content on your device. Some content is free, but you'll need to purchase packages from our Marketplace.
 Individual customers or Institution customers can purchase a package in the marketplace.
 
 ![Market Place](https://user-images.githubusercontent.com/101865042/159876748-d0876123-9d8b-492a-b22e-06947d81bfaf.PNG)
