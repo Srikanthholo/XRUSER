@@ -12,7 +12,7 @@
   - [XR Guru User](/User?id=creating-a-user-account)
   - [Registration](/User?id=website-registration)
   - [Devices Supported](/User?id=devices-supported)
-  - [Market-place](/User?id=market-place)
+  - [Marketplace](/User?id=marketplace)
   - [Features](/User?id=features)
   - [Registration using device](/User?id=registration-using-device)
   - [Login](/User?id=login)
