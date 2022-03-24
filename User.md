@@ -87,8 +87,8 @@ The user can review all of his transactions in the marketplace in this section.
 
 # Settings
 If a user logs into an Oculus Quest, an iPad, or an Android tablet. They will be registered, and a list of all devices will be displayed. if you desire, you can unmap them.
-
-![ipad](https://user-images.githubusercontent.com/101865042/159899081-72726a08-eaac-4432-bbc2-1fa37ff27bd8.PNG)
+ 
+![ipad](https://user-images.githubusercontent.com/101865042/159902438-74fe85e4-d2cb-4d29-9e41-7e604a06f246.PNG)
 
 
 ![Settings](https://user-images.githubusercontent.com/101865042/159897100-1551af05-0920-48ab-b281-68362841e99c.PNG)
