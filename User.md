@@ -19,7 +19,6 @@ User can create user account from webiste and app as well.
 ![Signupform](https://user-images.githubusercontent.com/101865042/159876992-1f34d7fb-1aea-4fcd-b1b1-75ffbf7b9447.PNG)
 
 
-
 # Devices Supported
 
 Download the XR Guru app for either Oculus, iOS, or Android
