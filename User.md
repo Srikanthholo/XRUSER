@@ -13,26 +13,15 @@ User can create login from webiste and app as well.
 
 Download the XR Guru app for either Oculus, iOS, or Android
 
-## Oculus Quest
+
+|  Device |  Photo  |  App |
+| - | - | - |
+| Oculus Quest|<img src="https://user-images.githubusercontent.com/101865042/159675291-8aecdc17-eba3-4947-a314-5a3317994cad.jpg" alt="drawing" style="width:400px;"/>|App link :- https://www.oculus.com/experiences/quest/3694537353974790/|
+| ipad | <img src="https://user-images.githubusercontent.com/101865042/159673991-235572dd-8953-405d-93f7-8b7007be007b.png" alt="drawing" style="width:400px;"/> |App link :- https://apps.apple.com/us/app/xr-guru/id1455596517 |
+| Android | <img src="https://user-images.githubusercontent.com/101865042/159866372-32d3662c-0a9e-4615-b6cd-69b4e1405f5c.PNG" alt="drawing" style="width:400px;"/> | App link :- https://play.google.com/store/apps/details?id=com.holopundits.xrguru |
  
-![6473857cv15d](https://user-images.githubusercontent.com/101865042/159675291-8aecdc17-eba3-4947-a314-5a3317994cad.jpg)
-
-App link :- https://www.oculus.com/experiences/quest/3694537353974790/
 
 
-## iPad
-
- 
-![ipad-2021-hero-space-wifi-select](https://user-images.githubusercontent.com/101865042/159673991-235572dd-8953-405d-93f7-8b7007be007b.png) 
-
-App link :- https://apps.apple.com/us/app/xr-guru/id1455596517
-
-
-## Android Tablet
-
-![download](https://user-images.githubusercontent.com/101865042/159675655-d2caf33d-b808-4237-83fb-b54309cff214.jpg)
-
-App link :- https://play.google.com/store/apps/details?id=com.holopundits.xrguru
 
 
 
