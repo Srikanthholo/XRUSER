@@ -24,7 +24,6 @@ Download the XR Guru app for either Oculus, iOS, or Android
 
 
 
-
 # Registration using device
 
 1. Download the XR Guru app for either Oculus, iOS, or Android
