@@ -18,4 +18,6 @@
   - [Login](/User?id=login)
   - [My Topics](/User?id=my-topics)
   - [Subscriptions](/User?id=subscriptions)
-  
+  - [Transactions](/User?id=transactions)
+  - [Settings](/User?id=settings)
+
