@@ -78,4 +78,18 @@ Users can view the package they purchased by clicking on the subscriptions tab, 
 ![MarketpalceSubscriptions](https://user-images.githubusercontent.com/101865042/159879181-2490d8f4-e4a5-44bf-9e54-b40a51ce6114.PNG)
 
 
+# Transactions
+The user can review all of his transactions in the marketplace in this section.
+
+![Transactions](https://user-images.githubusercontent.com/101865042/159897096-11027847-c4c7-495b-96e7-9e8759b199a1.PNG)
+
+
+
+# Settings
+If a user logs into an Oculus Quest, an iPad, or an Android tablet. They will be registered, and a list of all devices will be displayed. if you desire, you can unmap them.
+
+![ipad](https://user-images.githubusercontent.com/101865042/159899081-72726a08-eaac-4432-bbc2-1fa37ff27bd8.PNG)
+
+
+![Settings](https://user-images.githubusercontent.com/101865042/159897100-1551af05-0920-48ab-b281-68362841e99c.PNG)
 
