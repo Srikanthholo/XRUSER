@@ -63,9 +63,9 @@ When a user clicks the login button at the top of the page, it takes them to the
  ![LoginPage](https://user-images.githubusercontent.com/101865042/159888760-8f0e8414-7a79-4c7a-bd8b-1289af050539.PNG)
 
 
-# Marketplace Content
+# My Topics
 
-From the MarketPlace, you can access AR/VR digital content on your device. Some content is free, but you'll need to purchase packages from our Marketplace.
+From the My Topics, you can access AR/VR digital content on your device. Some content is free, but you'll need to purchase packages from our Marketplace.
 Individual customers or Institution customers can purchase a package in the marketplace.
 
 ![Marketplacecontent](https://user-images.githubusercontent.com/101865042/159878238-36a78075-f8d1-4af4-bf28-de6905b1c071.PNG)
