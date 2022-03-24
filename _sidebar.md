@@ -16,6 +16,6 @@
   - [Marketplace](/User?id=marketplace)
   - [Features](/User?id=features)
   - [Login](/User?id=login)
-  - [Marketplace Content](/User?id=marketplace-content)
+  - [My Topics](/User?id=my-topics)
   - [Subscriptions](/User?id=subscriptions)
   
