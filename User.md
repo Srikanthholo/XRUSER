@@ -3,21 +3,22 @@
 User can create user account from webiste and app as well.
 
 # Website Registration
+
+
+## Click on the "Start Your Free Trial" on the website, add some items to the shopping cart. 
+
+To check out, go to the cart and press the check out button.
 ![Market Place](https://user-images.githubusercontent.com/101865042/159876748-d0876123-9d8b-492a-b22e-06947d81bfaf.PNG)
 
-Click on the "Start Your Free Trial" on the website.
 
-
+## When you click the check out button, you'll be redirected to the registration page.
 ![MarketPlaceCart](https://user-images.githubusercontent.com/101865042/159876934-f56ca441-4ba4-48b2-a732-9c7de53d4ca8.PNG)
 
-
-Add some packages to the cart.
-Go to the cart and press check out.
-
-
+ 
+## Use the registration form to create a new account.
 ![Signupform](https://user-images.githubusercontent.com/101865042/159876992-1f34d7fb-1aea-4fcd-b1b1-75ffbf7b9447.PNG)
 
-User the registration form to create a new account.
+
 
 # Devices Supported
 
@@ -73,7 +74,7 @@ Individual customers or Institution customers can purchase a package in the mark
 
 # Subscriptions
 
-Users can view the package they purchased by clicking on the subscriptions tab, and they can purchase additional packages as needed.
+The subscriptions tab allows users to view the package they purchased and purchase additional packages as needed. They have the option to renew existing packages.
 
 ![MarketpalceSubscriptions](https://user-images.githubusercontent.com/101865042/159879181-2490d8f4-e4a5-44bf-9e54-b40a51ce6114.PNG)
 
