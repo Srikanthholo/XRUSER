@@ -9,15 +9,13 @@
  
 - **User Login**
 
-  - [XR Guru User](/User)
-  - [Design Studio Authoring Tool](/Creator?id=design-studio-authoring-tool)
-    - [Features](/Creator?id=features)
-    - [System Requirements](/Creator?id=system-requirements)
-    - [Download](/Creator?id=download)
-  - [Topics](/Topics)
-    - [Required](/Topics)
-    - [Optional](/Topics?id=Optional)
-    - [File-Types](/Topics?id=File-Types)
-    - [Marketplace](/Topics?id=Marketplace)
-    - [Topic-Status](/Topics?id=Topic-Status)
-   
+  - [XR Guru User](/User?id=creating-a-user-account)
+  - [Registration](/User?id=website-registration)
+  - [Devices Supported](/User?id=devices-supported)
+  - [Market-place](/User?id=market-place)
+  - [Featuers and Benifits](/User?User?id=featuers-and-benifits)
+  - [Registration using device](/User??id=registration-using-device)
+  - [Login](/User?id=login)
+  - [Market Place Content](/User?id=market-place-content)
+  - [Subscriptions](/User?id=subscriptionsn)
+  
