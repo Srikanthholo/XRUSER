@@ -39,7 +39,7 @@ Download the XR Guru app for either Oculus, iOS, or Android
 4. Using your device, select the desired topics to experience.
 
 
-# MarketPlace
+# Marketplace
 
 You can view the AR/VR digital content on your device from the MarketPlace. Some content is available at no charge, and you need to buy packages from our Marketplace.
 You can choose to buy a package in the marketplace as an Individual customers or Institution customers.
@@ -64,7 +64,7 @@ When user clicks on the login button on top of the website it will lead the user
  ![LoginPage](https://user-images.githubusercontent.com/101865042/159888760-8f0e8414-7a79-4c7a-bd8b-1289af050539.PNG)
 
 
-# MarketPlace Content
+# Marketplace Content
 
 
 ![Marketplacecontent](https://user-images.githubusercontent.com/101865042/159878238-36a78075-f8d1-4af4-bf28-de6905b1c071.PNG)
