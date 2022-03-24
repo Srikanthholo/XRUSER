@@ -13,9 +13,9 @@
   - [Registration](/User?id=website-registration)
   - [Devices Supported](/User?id=devices-supported)
   - [Market-place](/User?id=market-place)
-  - [Featuers and Benifits](/User?id=featuers-and-benifits)
+  - [Featuers and Benifits](/User?id=features)
   - [Registration using device](/User?id=registration-using-device)
   - [Login](/User?id=login)
   - [Market Place Content](/User?id=market-place-content)
-  - [Subscriptions](/User?id=subscriptionsn)
+  - [Subscriptions](/User?id=subscriptions)
   
