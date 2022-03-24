@@ -31,3 +31,19 @@ Download the XR Guru app for either Oculus, iOS, or Android
 3. Subscribe to additional topics and content as desired
 4. Using your device, select the desired topics to experience.
 
+
+# Market Place
+
+You can view the AR/VR digital content on your device from the MarketPlace. Some content is available at no charge, and you need to buy packages from our Marketplace.
+You can choose to buy a package in the marketplace as an Individual customers or Institution customers.
+
+# Featuers and Benifits
+
+- Technical Support Team
+- Access to hundreds of ready-to-use content in a variety of subjects.
+- 200+ highly curated learning modules that help K12 and college students in learning content that aligns with curriculum standards and STEM guidelines.
+- Asset Library of 3D models
+- Content creators can upload their own assets to their library or share them in the Asset Library
+- Easily explain simple or complex topics using XR interactions, 3D models, and real-time illustrations.
+- Enable learners to focus on the content without distractions in an experiential learning environment.
+- Learners can create a study plan based on their preferences and learn at their comfort
