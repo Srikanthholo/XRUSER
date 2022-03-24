@@ -21,7 +21,7 @@
   - [Transactions](/User?id=transactions)
   - [Settings](/User?id=settings)
 
-- ** Devices**
+- **Devices**
   - [Oculus Quest	](/User?id=settings)
   - [iPad	](/User?id=settings)
   - [Android Tablet](/User?id=settings)
