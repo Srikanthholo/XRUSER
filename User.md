@@ -71,6 +71,12 @@ When a user clicks the login button at the top of the page, it takes them to the
 From the My Topics, you can access AR/VR digital content on your device. Some content is free, but you'll need to purchase packages from our Marketplace.
 Individual customers or Institution customers can purchase a package in the marketplace.
 
+To access the videos, users must first connect into the XR Guru app for Oculus, iOS, or Android, where they can view all of their subscribed packages.
+
+To see the video content, simply click on the thumbnail. While watching the video, the user can try to scale, rotate, and move the objects in the video at any point.
+
+
+
 ![Marketplacecontent](https://user-images.githubusercontent.com/101865042/159878238-36a78075-f8d1-4af4-bf28-de6905b1c071.PNG)
 
 
