@@ -861,3 +861,16 @@ code .token {
   position: relative;
   left: auto;
 }
+
+
+.footer {
+ 
+  overflow-y: auto;
+ 
+  background-color: #b942b4;
+  color: #fff;
+
+  
+  
+}
+
