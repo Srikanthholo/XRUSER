@@ -22,6 +22,6 @@
   - [Settings](/User?id=settings)
 
 - **Devices**
-  - [Oculus Quest	](/User?id=settings)
+  - [Oculus Quest	](/Devices?id=Oculus-Quest-2)
   - [iPad	](/User?id=settings)
   - [Android Tablet](/User?id=settings)
