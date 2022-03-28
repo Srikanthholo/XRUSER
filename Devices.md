@@ -21,13 +21,7 @@ If users forget their password, they can easily access the forget password scree
 ![Login](https://user-images.githubusercontent.com/101865042/160348323-a0eb3f25-7161-4edd-a3ab-14e5bad8fa07.PNG)
 
 
-# Dashboard
-
-The XR Guru dashboard is there to help you out. Search through all of your videos and receive notifications when new ones are added. The XR Guru dashboard allows users to skim through videos on a range of topics.
-
-![DashBoard](https://user-images.githubusercontent.com/101865042/160348539-320ad97b-f6ee-4ae2-ae24-c923ea34656c.PNG)
  
-
 
 Learners gain a greater understanding of concepts and processes and retain the information learned for a longer period.
 
@@ -53,9 +47,26 @@ If users forget their password, they can easily access the forget password scree
 Once you login to app.
 Our app keeps users logged in by default, however it's also critical that consumers may simply log in as a different user if necessary.
 
+# Login Screen
 
 ![app](https://user-images.githubusercontent.com/101865042/160375243-1fbf1da2-e6e7-4421-8ff3-7cbd9c0fa70d.png)
 
 
+# Android Tablet
+
+![tablets](https://user-images.githubusercontent.com/101865042/160382015-e426097a-8d8a-4b42-9f70-83bed43b70c1.PNG)
+
+ 
+When individuals arrive at the XR GURU app and already have an account, it is obvious where they should go to log in. Users may sign in right from their home screen.
+
+As the login input fields (email and password) are becoming increasingly identical on a growing number of websites, it's critical to distinguish between the login and registration forms.
+
+A common problem when users attempt to login is mis-typing their password. This is all too easy to do as the password field is of course masked. A useful feature is to allow users to see the password they have entered (if they want to) by providing a show password checkbox. 
 
 
+If users forget their password, they can easily access the forget password screen by pressing the forget password button.
+
+Once you login to app.
+Our app keeps users logged in by default, however it's also critical that consumers may simply log in as a different user if necessary.
+
+![app](https://user-images.githubusercontent.com/101865042/160375243-1fbf1da2-e6e7-4421-8ff3-7cbd9c0fa70d.png)
