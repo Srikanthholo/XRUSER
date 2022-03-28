@@ -23,8 +23,7 @@ If users forget their password, they can easily access the forget password scree
 
 # Dashboard
 
-
-The XR Guru dashboard is designed to assist you. Search through all of your videos and be notified of any updates. The XR Guru dashboard enables video participation with a variety subjects. 
+The XR Guru dashboard is there to help you out. Search through all of your videos and receive notifications when new ones are added. The XR Guru dashboard allows users to skim through videos on a range of topics.
 
 ![DashBoard](https://user-images.githubusercontent.com/101865042/160348539-320ad97b-f6ee-4ae2-ae24-c923ea34656c.PNG)
  
