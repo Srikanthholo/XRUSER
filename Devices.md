@@ -36,7 +36,26 @@ Learners today will embrace leading-edge technologies and tools such as XR Guru.
 
 
 
-# Devices
+# iPad
+
+
+![159673991-235572dd-8953-405d-93f7-8b7007be007b](https://user-images.githubusercontent.com/101865042/160373157-c8880592-c728-442b-8db7-dc3964782a0c.png)
+
+When individuals arrive at the XR GURU app and already have an account, it is obvious where they should go to log in. Users may sign in right from their home screen.
+
+As the login input fields (email and password) are becoming increasingly identical on a growing number of websites, it's critical to distinguish between the login and registration forms.
+
+A common problem when users attempt to login is mis-typing their password. This is all too easy to do as the password field is of course masked. A useful feature is to allow users to see the password they have entered (if they want to) by providing a show password checkbox. 
+
+
+If users forget their password, they can easily access the forget password screen by pressing the forget password button.
+
+Once you login to app.
+Our app keeps users logged in by default, however it's also critical that consumers may simply log in as a different user if necessary.
+
+
+![app](https://user-images.githubusercontent.com/101865042/160375243-1fbf1da2-e6e7-4421-8ff3-7cbd9c0fa70d.png)
+
 
 
 
