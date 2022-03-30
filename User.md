@@ -62,6 +62,14 @@ Individual customers or Institution customers can purchase a package in the mark
 
 # Login
 When a user clicks the login button at the top of the page, it takes them to the login page, where they can enter their credentials.
+As the login input fields (email and password) are becoming increasingly identical on a growing number of websites, it's critical to distinguish between the login and registration forms.
+
+A common problem when users attempt to login is mis-typing their password. This is all too easy to do as the password field is of course masked. A useful feature is to allow users to see the password they have entered (if they want to) by providing a show password checkbox. If users forget their password, they can easily access the forget password screen by pressing the forget password button.
+
+Once you login to app. Our app keeps users logged in by default, however it's also critical that consumers may simply log in as a different user if necessary.
+
+
+
 
  ![LoginPage](https://user-images.githubusercontent.com/101865042/159888760-8f0e8414-7a79-4c7a-bd8b-1289af050539.PNG)
 
