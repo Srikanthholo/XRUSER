@@ -23,3 +23,15 @@ Holopundits® As a premier global XR educational partner, Holopundits' mission i
 - Easily explain simple or complex topics using XR interactions, 3D models, and real-time illustrations.&#x20;
 - Enable learners to focus on the content without distractions in an experiential learning environment.&#x20;
 - Learners can create a study plan based on their preferences and learn at their comfort
+
+ 
+   
+ <div style='color: red'>
+
+ <script src="lite-yt-embed.js"></script>
+
+    <lite-youtube videoid="ogfYd705cRs"></lite-youtube>
+
+</div>
+
+
