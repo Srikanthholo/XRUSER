@@ -116,7 +116,7 @@ li input[type='checkbox'] {
     top: 0;
     right: 40px;
     width: 75%;
-    height: 80px;
+    height: 60px;
     border-bottom: 1px solid var(--c-border);
  
 /* navbar dropdown */
