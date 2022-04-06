@@ -108,7 +108,8 @@ li input[type='checkbox'] {
   margin: 25px 60px 0 0;
   position: fixed;
   background-color: #ffffff;
-
+  Padding:40px;
+  Max-lenght:100%;
   right: 0;
   text-align: right;
   z-index: 10;
