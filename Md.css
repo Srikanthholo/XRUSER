@@ -107,6 +107,8 @@ li input[type='checkbox'] {
 .app-nav {
   margin: 25px 60px 0 0;
   position: fixed;
+  background-color: #ffffff;
+
   right: 0;
   text-align: right;
   z-index: 10;
