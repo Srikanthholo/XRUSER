@@ -108,7 +108,7 @@ li input[type='checkbox'] {
      margin: 0px 60px 0 0;
     position: fixed;
     background-color: #ffffff;
-    Padding: 15px;
+    Padding: 11px;
     text-align: right;
     z-index: 20;
     top: 0;
@@ -311,7 +311,7 @@ main.hidden {
   left: 0;
   text-align: center;
   transition: opacity 0.3s;
-  width: 284px;
+  width: 300px;
   z-index: 30;
   cursor: pointer;
 }
