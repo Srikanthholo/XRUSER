@@ -27,8 +27,7 @@ Holopundits® As a premier global XR educational partner, Holopundits' mission i
  
 
  
-
-[![holo](https://res.cloudinary.com/marcomontalbano/image/upload/v1649225998/video_to_markdown/images/youtube--D7VlebSxS0M-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=D7VlebSxS0M&t=54s "holo")
+[![holopundits](https://res.cloudinary.com/marcomontalbano/image/upload/v1649236610/video_to_markdown/images/youtube--D-dxnuMMma0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=D-dxnuMMma0 "holopundits")
 
    
  <details>
