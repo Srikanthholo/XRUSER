@@ -32,7 +32,9 @@ Holopundits® As a premier global XR educational partner, Holopundits' mission i
 
    
  <details>
-    <summary>Details</summary>
-    Something small enough to escape casual notice.
+    <summary>Holopundits</summary>
+Holopundits® As a premier global XR educational partner, Holopundits' mission is to provide users with immersive technologies that enhance the learner's knowledge and application of information. Holopundits’ proven ability to develop closely-aligned course content makes us the preferred partner for industry and academic institutions. Our progressive and active XR Guru developers continue to expand the platform using the latest XR technologies and assets. Our commitment to the learning organization is focused on supporting our partners and customers who plan to meet the modern demands for training and education using XR learning experiences.
+
+
 </details>
 
