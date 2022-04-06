@@ -25,13 +25,8 @@ Holopundits® As a premier global XR educational partner, Holopundits' mission i
 - Learners can create a study plan based on their preferences and learn at their comfort
 
  
+ 
+
+[![holo](https://res.cloudinary.com/marcomontalbano/image/upload/v1649225998/video_to_markdown/images/youtube--D7VlebSxS0M-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=D7VlebSxS0M&t=54s "holo")
    
- <div style='color: red'>
-
- <script src="lite-yt-embed.js"></script>
-
-    <lite-youtube videoid="ogfYd705cRs"></lite-youtube>
-
-</div>
-
-
+ 
